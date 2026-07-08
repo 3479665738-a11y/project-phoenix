@@ -15,3 +15,7 @@ Day 1
 ## Status
 
 🟡 In Progress
+
+Learning Log
+
+Started on 2026-07-08.
